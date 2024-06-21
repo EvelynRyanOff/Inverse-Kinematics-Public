@@ -1,19 +1,12 @@
 ----------------------------------
-A3 Read me!
+Inverse Kinematics Read me!
 ----------------------------------
-Code ran on my machine prior to submission.
+system bob position x y z - set the models left hand to given position.
 
-Every point was attempted and functioning after tests prior to submission.
+simulator iksim read filename - reads the provided spline file and sets model into the ready position
 
-Psuedo Inverse method was used for IK solver.
+press s to begin simulation runtime.
 
-PLEASE NOTE: the simulation runs really slowly on my computer, I tried to optimize it but failed to improve performance. Sorry in advance.
-
-Additionally, while the entire black board is not within the character's range, all the test cases are.
-
-------------------------------------
-TEMPLATE CODE FOR CSC 473
-------------------------------------
 
 Prerequisites
 --------------
